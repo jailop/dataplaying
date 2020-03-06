@@ -12,7 +12,7 @@ backcall==0.1.0
 basemap==1.2.1
 Beaker==1.11.0
 beautifulsoup4==4.8.2
-bleach==3.1.0
+bleach==3.1.1
 CacheControl==0.12.6
 cffi==1.14.0
 chardet==3.0.4
