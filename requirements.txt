@@ -150,7 +150,7 @@ pytoml==0.1.21
 pytz==2019.3
 pywebview==3.2
 pyxdg==0.26
-PyYAML==5.3
+PyYAML==5.4
 pyzmq==18.1.1
 QDarkStyle==2.8
 QtAwesome==0.7.0
