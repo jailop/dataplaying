@@ -124,7 +124,7 @@ pycurl==7.43.0.5
 pydocstyle==5.0.2
 pyflakes==2.1.1
 pygeoip==0.3.2
-Pygments==2.5.2
+Pygments==2.7.4
 PyGObject==3.34.0
 PyHamcrest==2.0.0
 pyinotify==0.9.6
