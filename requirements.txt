@@ -190,7 +190,7 @@ traitlets==4.3.3
 Twisted==19.10.0
 ujson==1.35
 unittest2==1.1.0
-urllib3==1.25.8
+urllib3==1.26.5
 urlparse2==1.1.1
 virtualenv==16.1.0
 watchdog==0.10.2
